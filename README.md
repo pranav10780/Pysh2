@@ -2,7 +2,7 @@
 A script written in bash to fully automate the download process python,pwntools,pip,numpy and DeathNot3(highly recommended for ctf players)
 
 # INSTALLATION
-git clone  
+git clone https://github.com/pranav10780/Pysh2. 
 chmod +x pysh2.sh  
 ./pysh2.sh  
 
