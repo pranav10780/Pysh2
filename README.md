@@ -3,6 +3,7 @@ A script written in bash to fully automate the download process python,pwntools,
 
 # INSTALLATION
 git clone https://github.com/pranav10780/Pysh2  
+cd Pysh2  
 chmod +x pysh2.sh  
 ./pysh2.sh  
 
